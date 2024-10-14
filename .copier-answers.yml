@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: v0.2.0
+_src_path: gh:alan-turing-institute/python-project-template
+coc: our_coc
+email: tsviki.hirsh@gmail.com
+full_name: Tsviki Y. Hirsh
+license: MIT
+min_python_version: '3.8'
+org: TsvikiHirsh
+project_name: mtfjet
+project_short_description: mtfjet is a lightweight and powerful tool designed to calculate
+    the Modulation Transfer Function (MTF) for neutron imaging stacks (TIFF) as a
+    function of Time-of-Flight (TOF) neutron energy.
+python_name: mtfjet
+typing: no_typing
+url: https://github.com/TsvikiHirsh/mtfjet
